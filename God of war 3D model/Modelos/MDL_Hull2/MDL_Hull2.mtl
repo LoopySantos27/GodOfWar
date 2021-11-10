@@ -1,0 +1,47 @@
+newmtl MAT_M01woodPanel01
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_woodPanel01.png
+map_Kd 0_GFX_woodPanel01.png
+
+newmtl MAT_M05woodPlain02
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_woodPlain02.png
+map_Kd 0_GFX_woodPlain02.png
+
+newmtl MAT_M07woodPlanks06a
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_woodPlanks06a.png
+map_Kd 0_GFX_woodPlanks06a.png
+
+newmtl MAT_M02woodLog02
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_woodLog02.png
+map_Kd 0_GFX_woodLog02.png
+
+newmtl MAT_lambert1New15
+Kd 0.400000 0.400000 0.400000 1.000000
+newmtl MAT_M02miscRopeSection
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_miscRopeSection.png
+map_Kd 0_GFX_miscRopeSection.png
+
+newmtl MAT_M02miscNetRope2
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_miscNetRope2.png
+map_Kd 0_GFX_miscNetRope2.png
+
+newmtl MAT_M01woodPlanks06c32
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_woodPlanks06c32.png
+map_Kd 0_GFX_woodPlanks06c32.png
+
+newmtl MAT_M02woodPlanks04
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_woodPlanks04.png
+map_Kd 0_GFX_woodPlanks04.png
+
+newmtl MAT_2sfxCloudReflection
+Kd 0.800000 0.800000 0.800000 1.000000
+map_Ka 0_GFX_sfxCloudReflection.png
+map_Kd 0_GFX_sfxCloudReflection.png
+
